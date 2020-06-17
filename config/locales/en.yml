@@ -295,7 +295,8 @@ en:
   landing:
     about: > 
         MyZoneGo, the first platform to fully virtualize your activity: from webinars, to virtual classrooms, from virtual workshops to virtual groups, to help you improve the connections with your employees. 
-        Information, education, knowledge management, training. Everything you need through MyZoneGo.
+        Information, education, knowledge management, training. 
+        Everything you need through MyZoneGo.
     welcome: Welcome to MyZoneGo.
     video: Watch our tutorial on using Greenlight
     upgrade: Show me how to upgrade to 2.0!
